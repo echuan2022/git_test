@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("Hello Git3");
         System.out.println("Hello Git normal merge");
         System.out.println("master changed");
+        System.out.println("Branch1 changed ");
     }
 }
