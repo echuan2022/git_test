@@ -12,5 +12,8 @@ public class GitTest {
         System.out.println("Branch1 changed ");
         System.out.println("push changed ");
         System.out.println("push changed ");
+        System.out.println("pull changed ");
+        System.out.println("pull changed ");
+        System.out.println("push commit ");
     }
 }
