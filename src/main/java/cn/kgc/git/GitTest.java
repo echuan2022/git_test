@@ -10,5 +10,7 @@ public class GitTest {
         System.out.println("Hello Git normal merge");
         System.out.println("master changed");
         System.out.println("Branch1 changed ");
+        System.out.println("push changed ");
+        System.out.println("push changed ");
     }
 }
